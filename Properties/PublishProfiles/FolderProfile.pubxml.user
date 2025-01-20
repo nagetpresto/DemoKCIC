@@ -3,4 +3,9 @@
 https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Bilqi\OneDrive\Desktop\DemoKCIC\DemoKCIC\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-01-20T02:33:48.6057866Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
 </Project>

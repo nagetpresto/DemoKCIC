@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoKCIC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d36e8cbfcc7e17c7a9c0cbfec55bf74e4d2d3241")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56ae6271619198383d32c9a9d209debad6ca7242")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoKCIC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoKCIC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
